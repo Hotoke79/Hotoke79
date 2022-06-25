@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hotoke79
-- 👀 I’m interested in Android App development
-- 🌱 I’m currently learning Java, Kotlin and Flutter
+- 👋 Hi, I’m Dmitry
+- 👀 I’m interested in Android and Web Apps development 
+- 🌱 I’m currently learning JavaScript
 
 <!---
 Hotoke79/Hotoke79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
